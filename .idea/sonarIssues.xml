@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/pax-a930-1170183431/data/data/com.pax.us.pay.std.shift4/files/vm/shift4_ipncfg.p">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/pax-a930-1170183431/data/data/com.pax.us.pay.std.shift4/files/vm/shift4_param.p">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xmltojsonlib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xmltojsonlib/src/main/java/fr/arnaudguyon/xmltojsonlib/FileReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xmltojsonlib/src/main/java/fr/arnaudguyon/xmltojsonlib/JsonToXml.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xmltojsonlib/src/main/java/fr/arnaudguyon/xmltojsonlib/Tag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xmltojsonlib/src/main/java/fr/arnaudguyon/xmltojsonlib/XmlToJson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/BroadPOS_MultiMerchant/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/BroadPOS_MultiMerchant/app/src/main/java/com/pax/app/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/BroadPOS_MultiMerchant/app/src/main/java/com/pax/multimerchant/MercHostParamManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/BroadPOS_MultiMerchant/app/src/main/java/com/pax/multimerchant/MultiMerchantHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
