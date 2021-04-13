@@ -45,7 +45,7 @@ public class Tag {
         if (content != null) {
             for (int i = 0; i < content.length(); ++i) {
                 char c = content.charAt(i);
-                if ((c != ' ') && (c != '\n')) {
+                if ((c != ' ') && (c != '\n') && (c != '\t')) {
                     hasContent = true;
                     break;
                 }
